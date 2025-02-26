@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<a href="https://yorozuyakageno.booth.pm/" target="_blank" rel="noreferrer">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/f/f2/BOOTH_icon.svg" alt="booth" width="40" height="40"/>
+</a>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
